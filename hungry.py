@@ -9,3 +9,4 @@ else:
     thirsty = raw_input('are you thirsty?')
     if thirsty == 'yes':
         print('drink water')
+        print('drink soda')
